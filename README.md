@@ -20,27 +20,4 @@ EDA was done and file is present above.
 HOW TO RUN THE PROJECT:
 Firstly we need MySQL Workbench installed in system
 
-Connect to localhost and then import the files that are in sql format to see the data. See the figure below and then check for the table.
-
-Screenshot (105)
-
-Note: Validation for results (insights) drawn can be done by simple queries from MySql workbench too.
-
-Screenshot (104)
-
-After that you'll have the data in your database. then we can connect with tableau providing the id passward and proceed ahead.
-
-Final step : once you tableau is connected to MySQL just open the tableu file to see the dashboards.
-
-DASHBOARDS CREATED : Total 5 dashboards were created
-Screenshot (106)
-
-Screenshot (107)
-
-Screenshot (108)
-
-Screenshot (109)
-
-Screenshot (110)
-
-
+Connect to localhost and then import the files that are in sql format to see the data. 
